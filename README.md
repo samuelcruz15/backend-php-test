@@ -14,7 +14,7 @@ Um produto deve possuir os seguintes dados:
 - Qty Disponível (Inteiro)
 - Marca (String Alfanumérica)
 
-A API que atender as implementação dos seguintes verbos e endpoint:
+A API deve implementar os seguintes verbos e endpoint:
 
 - GET /api/products/
   - Lista todos os produtos da aplicação.
