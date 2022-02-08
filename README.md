@@ -30,7 +30,7 @@ A API que atender as implementação dos seguintes verbos e endpoint:
 
 ### Requisitos  
 
-- Use PHP 8.x
+- Use PHP 8.x e Mysql 8.x
 - Você deve utilizar o Laravel 8 para criação da solução.
 - Você deve implementar o seed de produtos no banco de dados para eventuais testes.
 
