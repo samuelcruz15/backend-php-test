@@ -1,6 +1,6 @@
 # Teste prático de backend em PHP
 
-Neste repositório você encontra o enunciado do teste técnico de desenvolvedor com foco em PHP.
+Neste repositório você encontra o enunciado do teste técnico de desenvolvedor com foco em PHP e Laravel.
 
 ## O Teste
 
