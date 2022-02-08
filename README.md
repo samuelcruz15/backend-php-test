@@ -50,3 +50,6 @@ O processo de Pull Request funciona da seguinte maneira:
 3. Commitará e subirá as alterações para o SEU fork.
 4. Irá enviar um Pull Request para este repositório. Na descrição do Pull Request coloque o passo a passo para executar a sua aplicação.
 
+## Dúvidas?
+
+Caso tenha alguma dúvida referente ao teste você pode abrir uma issue aqui mesmo neste repositório.
