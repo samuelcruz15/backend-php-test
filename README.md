@@ -37,7 +37,7 @@ A API que atender as implementação dos seguintes verbos e endpoint:
 
 - Use PHP 8.x
 - Siga as [boas práticas](https://swagger.io/resources/articles/best-practices-in-api-design/) para o desenvolvimento de APIs RESTful
-- Utilize docker. Você pode usar o docker-compose.yml deste repositório para rodar sua solução, mas fique livre para usar outro ou personaliza-lo. Você pode usar o Laravel Sail caso prefira.
+- Utilize docker. Você pode usar o docker-compose.yml deste repositório para rodar sua solução, mas fique livre para usar outro ou personaliza-lo. Você também pode usar o Laravel Sail caso prefira.
 
 ## Processo de submissão
 
@@ -48,5 +48,5 @@ O processo de Pull Request funciona da seguinte maneira:
 1. Candidato fará um fork desse repositório (não irá clonar direto!)
 2. Fará seu projeto nesse fork.
 3. Commitará e subirá as alterações para o SEU fork.
-4. Irá enviar um Pull Request para este repositório.
+4. Irá enviar um Pull Request para este repositório. Na descrição do Pull Request coloque o passo a passo para executar a sua aplicação.
 
