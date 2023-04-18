@@ -43,7 +43,7 @@ A API deve implementar os seguintes verbos e endpoint:
 
 ## Processo de submissão
 
-O candidato deverá fazer um fork deste reposítório e efetuar a implementação do teste.
+O candidato deverá fazer um fork deste repositório e efetuar a implementação do teste.
 
 Ao finalizar a implementação deve adicionar o email denis.spalenza@redeancora.com.br ao seu repositório (onde está a implementação do seu teste) para validação do mesmo.
 
