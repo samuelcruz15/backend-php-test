@@ -30,7 +30,7 @@ A API deve implementar os seguintes verbos e endpoint:
 
 ### Requisitos  
 
-- Use PHP 8.x e Mysql 8.x (disponíveis do docker-compose.yml do repositório).
+- Use PHP 8.x e Mysql 8.x (disponíveis do docker-compose.yml do repositório - porém fique livre para rodar como preferir no seu ambiente local).
 - Você deve utilizar o Laravel 9 ou superior para criação da solução.
 - Você deve implementar as migrations, os factories e seed para eventuais testes e validações da sua implementação.
 - Crie um novo README.md explicando como devemos testar sua aplicação. Ou seja, esperamos que você documente o passo a passo para subirmos e testarmos sua aplicação.
