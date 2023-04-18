@@ -32,12 +32,13 @@ A API deve implementar os seguintes verbos e endpoint:
 
 - Use PHP 8.x e Mysql 8.x (disponíveis do docker-compose.yml do repositório).
 - Você deve utilizar o Laravel 9 ou superior para criação da solução.
-- Você deve implementar o seed de produtos no banco de dados para eventuais testes.
+- Você deve implementar as migrations, os factories e seed para eventuais testes e validações da sua implementação.
 
 ## Recomendações
 
 - Utilize docker. Você pode usar o docker-compose.yml deste repositório para rodar sua solução, mas fique livre para usar outro ou personaliza-lo. Você também pode usar o Laravel Sail caso prefira.
 - Siga as [boas práticas](https://swagger.io/resources/articles/best-practices-in-api-design/) para o desenvolvimento de APIs RESTful
+- **Bönus**: escrever ao menos um ou mais testes usando phpunit ou PEST. **Não** é um requisito obrigatório mas com certeza será um diferencial.
 
 ## Processo de submissão
 
