@@ -31,7 +31,7 @@ A API deve implementar os seguintes verbos e endpoint:
 ### Requisitos  
 
 - Use PHP 8.x e Mysql 8.x
-- Você deve utilizar o Laravel 8 para criação da solução.
+- Você deve utilizar o Laravel 9 ou superior para criação da solução.
 - Você deve implementar o seed de produtos no banco de dados para eventuais testes.
 
 ## Recomendações
@@ -41,14 +41,11 @@ A API deve implementar os seguintes verbos e endpoint:
 
 ## Processo de submissão
 
-O candidato deverá implementar a solução e enviar um pull request para este repositório com a solução.
+O candidato deverá fazer um fork deste reposítório e efetuar a implementação do teste.
 
-O processo de Pull Request funciona da seguinte maneira:
+Ao finalizar a implementação deve adicionar o email denis.spalenza@redeancora.com.br ao seu repositório (onde está a implementação do seu teste) para validação do mesmo.
 
-1. Candidato fará um fork desse repositório (não irá clonar direto!)
-2. Fará seu projeto nesse fork.
-3. Commitará e subirá as alterações para o SEU fork.
-4. Irá enviar um Pull Request para este repositório. Na descrição do Pull Request coloque o passo a passo para executar a sua aplicação.
+Não abra PRs no nosso repositório público.
 
 ## Dúvidas?
 
