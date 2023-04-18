@@ -38,7 +38,7 @@ A API deve implementar os seguintes verbos e endpoint:
 
 - Utilize docker. Você pode usar o docker-compose.yml deste repositório para rodar sua solução, mas fique livre para usar outro ou personaliza-lo. Você também pode usar o Laravel Sail caso prefira.
 - Siga as [boas práticas](https://swagger.io/resources/articles/best-practices-in-api-design/) para o desenvolvimento de APIs RESTful
-- **Bönus**: escrever ao menos um ou mais testes usando phpunit ou PEST. **Não** é um requisito obrigatório mas com certeza será um diferencial.
+- **Bônus**: escrever ao menos um ou mais testes usando phpunit ou PEST. **Não** é um requisito obrigatório mas com certeza será um diferencial.
 
 ## Processo de submissão
 
