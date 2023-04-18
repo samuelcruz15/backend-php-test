@@ -5,7 +5,7 @@ services:
   app-api:
     container_name: app-test-api
     tty: true
-    image: webdevops/php-nginx:8.0
+    image: webdevops/php-nginx:8.2
     environment:
       - APP_NAME=Laravel Teste
       - APP_URL=http://localhost
