@@ -21,7 +21,7 @@ class ProductService
 
   public function getAll()
   {
-    return $this->productRepository->getAll();
+    $listAll=$this->productRepository->getAll();
   }
 
   public function getSpecific($id)
